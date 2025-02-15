@@ -3,8 +3,8 @@
 ## *About Me*
 + Name: Shuvi  
 + Hobbies: Tech Stuff, Linux Ricing, Gaming
-+ Interested in: vim/neovim
-+ **I use arch btw**
++ Interested in: (neo)vim, lua, GTK
++ **I use Arch btw**
 
   
 ## *Experience*
