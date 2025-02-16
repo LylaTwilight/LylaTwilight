@@ -1,7 +1,7 @@
 <img src="assets/picture.jpg" max-height="500px" alt="background"/>
 
 ## *About Me*
-+ Name: Shuvi  
++ Name: Lyla 
 + Hobbies: Tech Stuff, Linux Ricing, Gaming
 + Interested in: (neo)vim, lua, GTK
 + **I use Arch btw**
