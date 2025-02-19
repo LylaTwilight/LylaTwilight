@@ -3,7 +3,7 @@
 ## *About Me*
 + Name: Lyla 
 + Hobbies: Tech Stuff, Linux Ricing, Gaming
-+ Interested in: (neo)vim, lua, GTK
++ Interested in: (neo)vim
 + **I use Arch btw**
 
   
